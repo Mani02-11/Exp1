@@ -10,6 +10,8 @@ A simple Android application developed using **Android Studio** and **Kotlin** a
 **Course:** MCA  General
 **Subject:** Mobile Application Development Lab
 
+---
+
 ## 🚀 Features
 
 - Displays Student Name
