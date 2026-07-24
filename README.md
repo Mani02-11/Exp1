@@ -50,7 +50,21 @@ app
 │   └── xml
 └── Gradle Scripts
 ```
+## ✅ Test Cases
 
+### Test Case 1: Application Launch
+**Objective:** Verify that the application launches successfully.  
+**Expected Result:** The application opens without any errors and displays the main screen.
+
+### Test Case 2: Display Student Details
+**Objective:** Verify that the student's Name and USN are displayed correctly.  
+**Expected Result:** The application displays:
+- Name: Manikandan P
+- USN: 25MCAR0186
+
+### Test Case 3: Display Hello World Message
+**Objective:** Verify that the "Hello World!" message is displayed.  
+**Expected Result:** The text **"Hello World!"** is visible on the screen and properly aligned.
 
 ## 📸 Output
 
