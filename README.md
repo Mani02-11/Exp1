@@ -3,12 +3,14 @@
 A simple Android application developed using **Android Studio** and **Kotlin** as part of the **Mobile Application Development Lab**. The application displays the student's details and a **"Hello World!"** message.
 
 ---
+
 ## 👨‍💻 Author
 
 **Name:** Manikandan P  
 **USN:** 25MCAR0186  
 **Course:** MCA  General
 **Subject:** Mobile Application Development Lab
+
 
 ---
 
