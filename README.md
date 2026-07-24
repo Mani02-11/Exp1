@@ -8,7 +8,6 @@ A simple Android application developed using **Android Studio** and **Kotlin** a
 **Name:** Manikandan P  
 **USN:** 25MCAR0186  
 **Course:** MCA  General
-
 **Subject:** Mobile Application Development Lab
 
 ---
